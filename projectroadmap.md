@@ -1,19 +1,19 @@
-Sprint 1 
+SPRINT 1 TO DO LIST
 
-Make a Github account and connect to KSU-IS
-Creat your own repository
-Edit and commint changes in a readme.md file
-Explore similar exisiting python code projects
-Analyze the code
+- [X] Establish a Github account and connect to KSU-IS 
+- [X] Create my own repositoy.
+- [X] Edit and commit changes in a readme.md file in a repository in our Github organization.
+- [X] Explore at least one existing Python code base related to their project 
+- [X] Analyze the code
 
-Sprint 2
+SPRINT 2 TO DO LIST 
 
-Creat a question bank where you can input players names 
-Find a database that has all data on players
-Add any necessary small updates and add commit messages
+- [] Create a question bank where you can input the player name and their is a successful return.
+- [X] Find a database that has all data on players.
+- [] Add any necessary small updates and add commit messages.
 
-Sprint 3
+Sprint 3 TO DO LIST
 
-Add the player database so that when a player is inputed their stats show
-Make the code so that all stats show for a player
-Make sure code runs smoothly
+- [] Add the player database so that when a player is inputed their stats return efficiently.
+- [] Make the code so that all stats show for a player.
+- [] Make sure code runs smoothly.
